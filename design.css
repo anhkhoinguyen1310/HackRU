@@ -12,3 +12,9 @@ body
 {
     background-image: url('bg.jpeg');
 }
+.h1Tittle
+{
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
