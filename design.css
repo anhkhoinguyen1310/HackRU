@@ -18,3 +18,9 @@ body
     font-family: "Lucida Console", "Courier New", monospace;
 }
 
+.text-center.border.border-light.p-5 {
+    max-width: 500px;
+    margin: 0 auto;
+    border-radius: 5%;
+  }
+  
