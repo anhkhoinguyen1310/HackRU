@@ -9,5 +9,4 @@ function signOut(e)
     console.log('clicked');
     window.location.href = "/index.html";
     localStorage.getItem()
-
 }  
