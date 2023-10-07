@@ -22,5 +22,6 @@ body
     max-width: 500px;
     margin: 0 auto;
     border-radius: 5%;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0);
   }
   
